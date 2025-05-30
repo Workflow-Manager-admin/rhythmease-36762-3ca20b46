@@ -1,0 +1,1 @@
+{"is_source_file": true, "file_id": 25, "git_revision": "", "state": 1, "description": "", "external_files": [], "external_methods": [], "published": [], "classes": [], "methods": [], "calls": [], "search-terms": [], "hash": "8791152d188dca772f1745673f1cce11", "format-version": 4, "code-base-name": "default", "filename": "rhythmease/settings.gradle.kts", "knowledge_revision": 24}
