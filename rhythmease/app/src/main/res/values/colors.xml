@@ -2,4 +2,8 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="primary">#222831</color>
+    <color name="secondary">#393E46</color>
+    <color name="accent">#FFD369</color>
+    <color name="cell_bg">#2B313B</color>
 </resources>
